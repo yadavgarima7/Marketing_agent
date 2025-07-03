@@ -1,0 +1,18 @@
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore virtual environments
+venv/
+
+# Ignore outputs (e.g., generated content)
+generated_posts.csv
+generated_posts.txt
+ideas_with_images.json
+
+
+# Ignore brand or competitor input files
+posts/
+brand_profile.txt
+posts/hello_recess.json
